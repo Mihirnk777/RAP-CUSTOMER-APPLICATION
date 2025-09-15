@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service defination - customer UI'
+define service ZUI_CUSTOMER_SD_t {
+  expose ZC_CUSTOMER_DATA_t as CUSTOMER;
+}

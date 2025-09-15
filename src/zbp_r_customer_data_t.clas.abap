@@ -1,0 +1,5 @@
+CLASS zbp_r_customer_data_t DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zr_customer_data_t.
+ENDCLASS.
+
+CLASS zbp_r_customer_data_t IMPLEMENTATION.
+ENDCLASS.
